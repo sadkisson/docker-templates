@@ -16,12 +16,20 @@
   <Privileged>false</Privileged>
   <Environment>
     <Variable>
-      <Name></Name>
+      <Name>/config</Name>
       <Value></Value>
     </Variable>
     <Variable>
-      <Name></Name>
-      <Value></Value>
+      <Name>BOTS</Name>
+      <Value>0</Value>
+    </Variable>
+    <Variable>
+      <Name>GAMEMODE</Name>
+      <Value>0</Value>
+    </Variable>
+    <Variable>
+      <Name>PORT</Name>
+      <Value>443</Value>
     </Variable>
   </Environment>
   <Networking>
