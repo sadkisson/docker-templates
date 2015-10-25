@@ -20,10 +20,6 @@
       <Value>64</Value>
     </Variable>
     <Variable>
-      <Name>serverPort</Name>
-      <Value>443</Value>
-    </Variable>
-    <Variable>
       <Name>serverGamemode</Name>
       <Value>0</Value>
     </Variable>
@@ -38,10 +34,6 @@
     <Variable>
       <Name>serverViewBaseY</Name>
       <Value>592</Value>
-    </Variable>
-    <Variable>
-      <Name>serverStatsPort</Name>
-      <Value>88</Value>
     </Variable>
     <Variable>
       <Name>serverStatsUpdate</Name>
