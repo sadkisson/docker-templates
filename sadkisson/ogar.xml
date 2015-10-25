@@ -7,8 +7,8 @@
  
   <Support></Support>
   <Name>Ogar</Name>
-  <Description></Description>
-  <Project></Project>
+  <Description>A fully functional open source Agar.io server implementation, written in Node.js. Ogar is designed to be used with the latest Agar.io client.</Description>
+  <Project>The official website for the Ogar Project is ogarproject.com. You can register on our forums to chat with other Ogar users, get support, advertise your server, and more.</Project>
   <Overview></Overview>
   <Registry>https://registry.hub.docker.com/u/sadkisson/ogar/</Registry>
   <Repository>sadkisson/ogar</Repository>
@@ -41,6 +41,6 @@
   <Version></Version>
   <WebUI></WebUI>
   <Banner></Banner>
-  <Icon></Icon>
+  <Icon>https://avatars0.githubusercontent.com/u/13260525?v=3&s=200</Icon>
   <ExtraParams></ExtraParams>
 </Container>
